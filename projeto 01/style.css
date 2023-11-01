@@ -1,3 +1,7 @@
+*/ a solução que encontrei foi apagar todo o css para refaze-lo. por se tratar de um projeto diminuto e ter sido propositalmente embaralhado e/ou
+alterado para que ocasionasse erros no código, foi muito mais fácil refazer todo o css do que corrigir os problemas dentro de cada tag
+/*
+
 *{
     margin:0px;
     box-sizing: border-box;
